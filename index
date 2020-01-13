@@ -1,3 +1,6 @@
+llenar combobox en cascada
+https://www.roytuts.com/cascading-or-dependent-dropdown-using-angular/
+
 guardar
 https://docs.microsoft.com/en-us/ef/core/saving/related-data
 using (var context = new BloggingContext())
