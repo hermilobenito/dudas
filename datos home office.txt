@@ -1,0 +1,21 @@
+gitea
+usuario: hermilo.santiago
+pw: santiago67
+http://54.152.5.165:3000/
+
+gitcracken
+hermilo.santiago-extern@renault.com.mx
+pw: santiagogy
+online
+https://app.gitkraken.com/login?return-url=https%3A%2F%2Fapp.gitkraken.com%2Fglo%2F
+
+para generar contraseñas de compu
+https://pcadm2.central.allianceit.biz/pcadm2/
+youtrack:
+http://54.152.5.165:8090/
+contresña arca
+
+ipn
+px03813
+antiguo:hsb24244
+actual:hsb24200
